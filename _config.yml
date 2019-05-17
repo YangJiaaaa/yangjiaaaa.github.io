@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+title: My homepage
+description: some randon stuff
+plugins:
+  - jemoji
