@@ -1,6 +1,7 @@
 # Welcome to Yang Jia's GitHub Pages
 
 Here is a little introduction of myself.
+
 よろしくお願いいたします。
 
 ![](github_fig.jpg)
@@ -33,3 +34,9 @@ Reading
 PUBG & APEX & LOL & Gujian3
 
 -------
+
+## Follow Me
+
+Facebook:<a href="https://www.facebook.com/profile.php?id=100012850391181" target="_blank"></a>
+
+Wechat:
