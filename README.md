@@ -3,6 +3,7 @@
 Here is a little introduction of myself.
 よろしくお願いいたします。
 
+![](yangjiaaaa.github.io/github_fig.jpg)
 
 
 -----
