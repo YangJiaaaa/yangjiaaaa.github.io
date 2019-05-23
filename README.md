@@ -39,4 +39,5 @@ PUBG & APEX & LOL & Gujian3
 
 Facebook:<a href="https://www.facebook.com/profile.php?id=100012850391181" target="_blank"></a>
 
-Wechat:
+Wechat: ![](QR_Code.jpg)
+
