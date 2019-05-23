@@ -1,10 +1,37 @@
 ## Welcome to Yang Jia's GitHub Pages
 
-Here we have some text.
+Here is a little introduction of myself.
+よろしくお願いいたします。
 
-### Markdown
 
-more stuff
+
+-----
+
+### Study Experience
+
+Sichuan University - Hokkaido University
+
+Computer Science and Technology && Financial Engineering
+
+-----
+
+### Hobbies
+
+Photography
+
+Travel
+
+Movie
+
+Guitar
+
+Badminton & Swimming
+
+Reading
+
+PUBG & APEX & LOL & Gujian3
+
+------
 
 ```markdown
 Syntax highlighted code block
