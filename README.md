@@ -41,5 +41,5 @@ Facebook:<a href="https://www.facebook.com/profile.php?id=100012850391181" targe
 
 Wechat: 
 
-![](QR_Code.jpg=100×100)
+![](QR_Code.jpg =100×100)
 
