@@ -2,7 +2,7 @@
 
 Here is a little introduction of myself.
 
-よろしくお願いいたします。
+よろしくお願いいたします。:kissing_heart:
 
 ![](github_fig.jpg)
 
