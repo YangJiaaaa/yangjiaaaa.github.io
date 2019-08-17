@@ -16,9 +16,21 @@ Here is a little introduction of myself.
 
 # Study Experience
 
-Sichuan University (China:panda_face:) - University of California, Berkeley (USA:statue_of_liberty:) - Hokkaido University (Japan:cherry_blossom:)
+Sichuan University (China:panda_face:)
 
-Computer Science and Technology (Machine Learning):computer: & Financial Engineering (Business Analysis):moneybag:
+:arrow_down:
+
+University of California, Berkeley (USA:statue_of_liberty:) 
+
+:arrow_down:
+
+Hokkaido University (Japan:cherry_blossom:)
+
+---------
+
+Computer Science and Technology (Machine Learning):computer: 
+
+Financial Engineering (Business Analysis):moneybag:
 
 -----
 
