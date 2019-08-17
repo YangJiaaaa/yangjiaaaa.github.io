@@ -2,6 +2,9 @@
 
 Here is a little introduction of myself.
 
+
+
+
 よろしくお願いいたします。
 很高兴认识你。
 :kissing_heart:
@@ -15,7 +18,7 @@ Here is a little introduction of myself.
 
 Sichuan University(China) - University of California, Berkeley(USA) - Hokkaido University(Japan)
 
-Computer Science and Technology (Machine Learning) & Financial Engineering (Business Analysis)
+Computer Science and Technology (Machine Learning):computer: & Financial Engineering (Business Analysis):money:
 
 -----
 
@@ -34,23 +37,23 @@ Trying to develop rapidly growing strategy that uses complex computer models to 
 
 # Hobbies
 
-Photography
+Photography :camera:
 
-Travel
+Travel :ocean:
 
-Movies
+Movies 
 
-Guitar
+Guitar :guitar:
 
-Badminton & Swimming
+Badminton & Swimming 
 
-Reading
+Reading :book:
 
-Chinese Poem
+Chinese Poem 
 
-Video Games:PUBG & APEX & LOL & Gujian3
+Video Games:PUBG & APEX & LOL & Gujian3 :computer:
 
-Soccer Watching:Barcelona
+Soccer Watching:Barcelona :soccer:
 
 -------
 
