@@ -19,6 +19,19 @@ Computer Science and Technology (Machine Learning) & Financial Engineering (Busi
 
 -----
 
+## Academic Interests
+
+# Bioinformatics:
+
+Metagenomics is a study of genomic sequences obtained directly from an environment, which allows researchers to create a picture of an environment's microbial life without the need to isolate and culture individual microbes. However, the huge amount of computation poses a great challenge to the current method. To solve this problem directly, I am working on developing and optimizing the algorithm by using Deep Learning and do the research of this field.
+
+# Quantitative Investment：
+
+Trying to develop rapidly growing strategy that uses complex computer models to make trading decisions and taking a blow to its reputation with the current markets troubles.
+
+
+-----
+
 ## Hobbies
 
 Photography
