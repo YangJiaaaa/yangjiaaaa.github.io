@@ -11,7 +11,7 @@ Here is a little introduction of myself.
 
 ## Study Experience
 
-Sichuan University - University of California, Berkeley - Hokkaido University
+Sichuan University(China) - University of California, Berkeley(USA) - Hokkaido University(Japan)
 
 Computer Science and Technology(Machine Learning) && Financial Engineering(Business Analysis)
 
