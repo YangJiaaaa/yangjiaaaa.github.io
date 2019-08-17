@@ -71,12 +71,12 @@ Soccer Watching:Barcelona :soccer:
 
 # Follow Me
 
-[My Facebook](https://www.facebook.com/profile.php?id=100012850391181)
+:one: [My Facebook](https://www.facebook.com/profile.php?id=100012850391181)
 
-[My Instagram](https://instagram.com/jiayangyoyoyo)
+:two: [My Instagram](https://instagram.com/jiayangyoyoyo)
 
-Email: yjgoodluck@qq.com
+:three: Email: yjgoodluck@qq.com
 
-Wechat: 
+:four: Wechat: 
 
 <img src="QR_Code.jpg" width="20%" height="20%">
