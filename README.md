@@ -2,7 +2,9 @@
 
 Here is a little introduction of myself.
 
-よろしくお願いいたします。:kissing_heart:
+よろしくお願いいたします。
+很高兴认识你。
+:kissing_heart:
 
 ![](github_fig.jpg)
 
@@ -13,7 +15,7 @@ Here is a little introduction of myself.
 
 Sichuan University(China) - University of California, Berkeley(USA) - Hokkaido University(Japan)
 
-Computer Science and Technology(Machine Learning) && Financial Engineering(Business Analysis)
+Computer Science and Technology (Machine Learning) & Financial Engineering (Business Analysis)
 
 -----
 
