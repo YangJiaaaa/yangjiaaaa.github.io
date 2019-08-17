@@ -11,7 +11,7 @@ Here is a little introduction of myself.
 
 -----
 
-## Study Experience
+# Study Experience
 
 Sichuan University(China) - University of California, Berkeley(USA) - Hokkaido University(Japan)
 
@@ -19,20 +19,20 @@ Computer Science and Technology (Machine Learning) & Financial Engineering (Busi
 
 -----
 
-## Academic Interests
+# Academic Interests
 
-# Bioinformatics:
+## Bioinformatics:
 
 Metagenomics is a study of genomic sequences obtained directly from an environment, which allows researchers to create a picture of an environment's microbial life without the need to isolate and culture individual microbes. However, the huge amount of computation poses a great challenge to the current method. To solve this problem directly, I am working on developing and optimizing the algorithm by using Deep Learning and do the research of this field.
 
-# Quantitative Investment：
+## Quantitative Investment：
 
 Trying to develop rapidly growing strategy that uses complex computer models to make trading decisions and taking a blow to its reputation with the current markets troubles.
 
 
 -----
 
-## Hobbies
+# Hobbies
 
 Photography
 
@@ -54,11 +54,13 @@ Soccer Watching:Barcelona
 
 -------
 
-## Follow Me
+# Follow Me
 
 [My Facebook](https://www.facebook.com/profile.php?id=100012850391181)
 
 [My Instagram](https://instagram.com/jiayangyoyoyo)
+
+Email: yjgoodluck@qq.com
 
 Wechat: 
 
