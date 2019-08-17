@@ -1,10 +1,7 @@
 # This is Yang Jia :arrow_forward:
 
-Here is a little introduction of myself.
 
-
-
-
+Nice to meet you.
 よろしくお願いいたします。
 很高兴认识你。
 :kissing_heart:
@@ -15,6 +12,7 @@ Here is a little introduction of myself.
 -----
 
 # Study Experience
+
 
 Sichuan University (China:panda_face:)
 
@@ -40,6 +38,7 @@ Financial Engineering (Business Analysis):moneybag:
 
 # Academic Interests
 
+
 ## Bioinformatics: :shipit:
 
 Metagenomics is a study of genomic sequences obtained directly from an environment, which allows researchers to create a picture of an environment's microbial life without the need to isolate and culture individual microbes. However, the huge amount of computation poses a great challenge to the current method. To solve this problem directly, I am working on developing and optimizing the algorithm by using Deep Learning and do the research of this field.
@@ -52,6 +51,7 @@ Trying to develop rapidly growing strategy that uses complex computer models to 
 -----
 
 # Hobbies
+
 
 Photography :camera:
 
@@ -74,6 +74,7 @@ Soccer Watching:Barcelona :soccer:
 -------
 
 # Follow Me
+
 
 :one: [My Facebook](https://www.facebook.com/profile.php?id=100012850391181)
 
