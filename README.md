@@ -25,7 +25,7 @@ Photography
 
 Travel
 
-Movie
+Movies
 
 Guitar
 
