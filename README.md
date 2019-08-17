@@ -26,6 +26,10 @@ University of California, Berkeley (USA:statue_of_liberty:)
 
 Hokkaido University (Japan:cherry_blossom:)
 
+:arrow_down:
+
+Under Application...
+
 ---------
 
 Computer Science and Technology (Machine Learning):computer: 
