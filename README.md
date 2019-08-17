@@ -5,6 +5,9 @@ From: Jiangxi Province, China
 
 20 years old
 
+![](github_fig.jpg)
+
+
 ---------------------
 
 Nice to meet you.
@@ -15,7 +18,6 @@ Nice to meet you.
 
 :kissing_heart:
 
-![](github_fig.jpg)
 
 
 -----
