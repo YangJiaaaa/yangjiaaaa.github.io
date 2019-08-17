@@ -38,7 +38,7 @@ PUBG & APEX & LOL & Gujian3
 ## Follow Me
 
 [My Facebook](https://www.facebook.com/profile.php?id=100012850391181)
-
+[My Instagram](https://instagram.com/jiayangyoyoyo)
 Wechat: 
 
 <img src="QR_Code.jpg" width="20%" height="20%">
