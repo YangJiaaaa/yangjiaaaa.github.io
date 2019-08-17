@@ -33,7 +33,11 @@ Badminton & Swimming
 
 Reading
 
-PUBG & APEX & LOL & Gujian3
+Chinese Poem
+
+Video Games:PUBG & APEX & LOL & Gujian3
+
+Soccer Watching:Barcelona
 
 -------
 
