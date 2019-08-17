@@ -1,4 +1,4 @@
-# Welcome to Yang Jia's GitHub Pages
+# This is Yang Jia :arrow_forward:
 
 Here is a little introduction of myself.
 
