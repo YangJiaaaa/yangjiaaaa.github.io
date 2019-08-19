@@ -7,7 +7,7 @@ Living: Hokkaido, Japan
 
 20 years old
 
-Languages:| Chinese| English| Japanese(Basic, Studying)| Spanish(Basic, Studying)
+Languages:| Chinese (1st language)| English (2nd language)| Japanese (Basic, Studying)| Spanish (Basic, Studying)
 
 
 
