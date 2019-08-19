@@ -3,7 +3,11 @@
 
 From: Jiangxi Province, China
 
+Living: Hokkaido, Japan
+
 20 years old
+
+Languages: Chinese, English, Japanese(Basic| Studying), Spanish(Basic| Studying)
 
 ![](github_fig.jpg)
 
@@ -12,9 +16,11 @@ From: Jiangxi Province, China
 
 Nice to meet you.
 
+很高兴认识你。
+
 よろしくお願いいたします。
 
-很高兴认识你。
+Encantada de conocerte.
 
 :kissing_heart:
 
