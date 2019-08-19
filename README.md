@@ -47,7 +47,7 @@ Hokkaido University (Japan:cherry_blossom:)
 
 Under Application...
 
----------
+## Major
 
 Computer Science and Technology (Machine Learning):computer: 
 
