@@ -49,13 +49,18 @@ Under Application...
 
 ## Major
 
-Computer Science and Technology (Machine Learning):computer: 
+1. Computer Science and Technology (Machine Learning):computer: 
 
-Financial Engineering (Business Analysis):moneybag:
+Programming Languages: Python, C, C++, Java, Javascript, Android
+
+
+2. Financial Engineering (Business Analysis):moneybag:
+
+Interested Fields: Econometrics, Macroeconomics, Microeconomics
 
 -----
 
-# Academic Interests
+# Research Topics
 
 
 ## Bioinformatics: :shipit:
