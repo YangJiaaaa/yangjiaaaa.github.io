@@ -3,9 +3,9 @@
 
 From: Jiangxi Province, China
 
-Living: Hokkaido, Japan
+Living: Chengdu Province, China
 
-20 years old
+21 years old
 
 Languages:| Chinese (1st language)| English (2nd language)| Japanese (Basic, Studying)| Spanish (Basic, Studying)
 
