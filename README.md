@@ -1,11 +1,13 @@
 # This is Jia :arrow_forward:
 
 
-From: Jiangxi Province, China
+From: Jiangxi Province, China 中国江西省九江市
 
-Living: Chengdu Province, China
+Living: Sichuan Province, China 中国四川省成都市
 
 21 years old
+
+Hope to become a college teacher and have lots of free time for everything I like and fulfill myself.
 
 Languages:| Chinese (1st language)| English (2nd language)| Japanese (Basic, Studying)| Spanish (Basic, Studying)
 
